@@ -1,0 +1,2 @@
+apenas o jardim selvagem de um dodói tentando entender as coisas que o interessam nessa vida.
+potencialmente conteúdo sobre ficção, psicologia e aleatoriedades — leia com moderação e evite me levar (muito) a sério.
