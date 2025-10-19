@@ -12,11 +12,11 @@ Zuegel usa como exemplo um texto seu que levava a uma conclusão que poderia ser
 Eu enxergo que os sinais epistêmicos seriam uma foma de orientar melhor como o texto pode ser lido, de forma a encaminhar uma discussão mais produtiva, pois deixa mais evidente ao leitor quais são as lacunas de conhecimento da autoria e o que já está consolidado, evitando que se precise debater sobre *tudo* no texto — podemos simplesmente falar sobre as lacunas e como elas se relacionam com o que já está consolidado, se preocupando em desenvolver isso e não em iniciar dos fundamentos.
 
 Exemplo prático:
-Se eu fosse criar um blog focado em estudos de psicologia e começasse as postagens com os resumos e textos derivados de [[O menino criado como cão (livro)]], me preocuparia em sinalizar o que ali foi um pensamento e o que foi retirado do livro, além de apontar o que exatamente eu revisei apenas no livro e o que busquei fontes extras.
+Se eu fosse criar um blog focado em estudos de psicologia e começasse as postagens com os resumos e textos derivados de [[O menino criado como cão (livro) | O Menino Criado como Cão]], me preocuparia em sinalizar o que ali foi um pensamento e o que foi retirado do livro, além de apontar o que exatamente eu revisei apenas no livro e o que busquei fontes extras.
 
-[[1. O Mundo de Tina]]
-	-> *Status epistêmico:* Médio, procurei fazer o resumo de acordo com o que Perry relatava no capítulo, tentando adicionar o mínimo possível da minha opinião pessoal no *resumo*. As *situações relevantes*, no entanto, possuem mais do meu ponto de vista e não tenho conhecimento formal sobre práticas terapêuticas e neurociência.
-	-> *Esforço epistêmico:* Baixo a médio, fiz a releitura anotando pontos principais e destacando outros do perfil e tratamento de Tina, além de informações da forma como ela vivia. Não pesquisei fontes externas para saber se há mais informações sobre esse caso divulgadas por Perry ou sua organização.
+Capítulo 1: [[1. O Mundo de Tina | O Mundo de Tina]]
+- *Status epistêmico:* Médio, procurei fazer o resumo de acordo com o que Perry relatava no capítulo, tentando adicionar o mínimo possível da minha opinião pessoal no *resumo*. As *situações relevantes*, no entanto, possuem mais do meu ponto de vista e não tenho conhecimento formal sobre práticas terapêuticas e neurociência.
+- *Esforço epistêmico:* Baixo a médio, fiz a releitura anotando pontos principais e destacando outros do perfil e tratamento de Tina, além de informações da forma como ela vivia. Não pesquisei fontes externas para saber se há mais informações sobre esse caso divulgadas por Perry ou sua organização.
 
 ## Relacionados
 
