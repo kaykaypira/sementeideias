@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "logo": "logo.jpeg",
+    "title": "Horta, jardim & matagal",
+    "links": [
+      {
+        "href": "/notas",
+        "name": "notas"
+      },
+      {
+        "href": "/sobre",
+        "name": "sobre"
+      }
+    ],
+    "social": [
+      {
+        "label": "bluesky",
+        "name": "eu no céu azul",
+        "href": "https://bsky.app/profile/kaynaoescreve.bsky.social"
+      },
+      {
+        "label": "instagram",
+        "name": "eu no insta",
+        "href": "https://www.instagram.com/kaynaoescreve/"
+      }
+    ]
+  }
+}
